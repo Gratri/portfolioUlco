@@ -1,3 +1,12 @@
+@font-face {
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+    src: url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/webfonts/fa-solid-900.woff2") format("woff2");
+}
+
+
 :root {
     --primary: #C778DD;
     --secondary: #FFFFFF;
